@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @polerflyer69
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html.py.css
-- 💞️ I’m looking to collaborate on doing ur mom
-- 📫 How to reach me inside ur mom
-- 😄 Pronouns: ask ur mom
-- ⚡ Fun fact: i fucked ur mom 69 times
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me idk
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
 - 
 
 <!---
